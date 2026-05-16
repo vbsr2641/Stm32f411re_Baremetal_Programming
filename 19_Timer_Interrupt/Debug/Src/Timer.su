@@ -1,0 +1,3 @@
+D:/STM32_Baremetal_Programming/chip_headers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+../Src/Timer.c:14:6:tim2_1hz_init	4	static
+../Src/Timer.c:33:6:tim2_1hz_interrupt_init	8	static
