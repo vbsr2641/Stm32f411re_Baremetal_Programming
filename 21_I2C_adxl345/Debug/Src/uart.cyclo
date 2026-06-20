@@ -1,0 +1,11 @@
+D:/STM32_Baremetal_Programming/chip_headers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	2
+../Src/uart.c:68:5:__io_putchar	1
+../Src/uart.c:74:6:dma1_stream6_init	2
+../Src/uart.c:126:6:uart2_rxtx_init	1
+../Src/uart.c:179:6:uart2_tx_interrupt_init	1
+../Src/uart.c:223:6:uart2_rx_interrupt_init	1
+../Src/uart.c:280:6:uart2_tx_init	1
+../Src/uart.c:315:13:uart_set_baudrate	1
+../Src/uart.c:321:17:compute_uart_bd	1
+../Src/uart.c:327:6:uart2_read	2
+../Src/uart.c:336:6:uart2_write	2
